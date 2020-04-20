@@ -1,2 +1,3 @@
 hello
 friend
+clone from branch
